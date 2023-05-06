@@ -1,0 +1,36 @@
+{
+    "metaTitle": "DeskApp Support Dashboard",
+    "favicon__url": "https://raw.githubusercontent.com/talhazah/appdesk/main/favicon.png",
+    "company_name": "DeskApp",
+    "company_site_name": "deskapp.pro",
+    "company_site_url": "https://deskapp.pro",
+    "company_logo_white__url": "https://raw.githubusercontent.com/talhazah/appdesk/main/desk.svg",
+    "company_logo_black__url": "https://raw.githubusercontent.com/talhazah/appdesk/main/desk.svg",
+    "company_logo_allwhite__url": "https://raw.githubusercontent.com/talhazah/appdesk/main/desk.svg",
+    "company_logo_planet__url": "https://raw.githubusercontent.com/talhazah/appdesk/main/desk%20(1).svg",
+    "company_logo_no_text__url": "https://raw.githubusercontent.com/talhazah/appdesk/main/Untitled-2.png",
+    "privacy_policy_link_text": "Privacy Policy",
+    "privacy_policy_url": "#",
+    "display_terms_and_conditions_link": false,
+    "terms_and_conditions_url": "#",
+    "contact_us_email": "support@appdesk.pro",
+    "footer": {
+        "display_terms_and_conditions_link": false,
+        "display_contact_us_email": true
+    },
+    "recent_project_page": {
+        "company_logo_black__width": "130px"
+    },
+    "signup_page": {
+        "display_terms_and_conditions_link": false
+    },
+    "handle_invitation_page": {
+        "company_logo_45x45": "https://raw.githubusercontent.com/talhazah/appdesk/main/45x45.png"
+    },
+    "wizard_create_project_page": {
+        "logo_x_rocket": "https://raw.githubusercontent.com/talhazah/appdesk/main/desk.svg"
+    },
+    "wizard_install_widget_page": {
+        "logo_on_rocket": "https://raw.githubusercontent.com/talhazah/appdesk/main/desk.svg"
+    }
+}
